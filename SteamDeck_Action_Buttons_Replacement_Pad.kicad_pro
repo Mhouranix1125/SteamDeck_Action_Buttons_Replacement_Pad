@@ -269,7 +269,7 @@
       "plot": "./",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "SteamDeck_Action_Buttons_Replacement_Pad.step",
       "svg": "",
       "vrml": ""
     },
